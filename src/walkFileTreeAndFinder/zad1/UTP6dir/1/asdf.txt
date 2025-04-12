@@ -1,0 +1,5 @@
+zawartosc pliku 1 
+zawartosc pliku 1 2
+zawartosc pliku 1 3
+zawartosc pliku 1 4
+zawartosc pliku 1 5

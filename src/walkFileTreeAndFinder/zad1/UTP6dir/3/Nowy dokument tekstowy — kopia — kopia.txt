@@ -1,0 +1,7 @@
+zawartosc pliku 3 2
+zawartosc pliku 3 2 1
+zawartosc pliku 3 2 2
+zawartosc pliku 3 2 3
+zawartosc pliku 3 2 4
+zawartosc pliku 3 2 5
+zawartosc pliku 3  6

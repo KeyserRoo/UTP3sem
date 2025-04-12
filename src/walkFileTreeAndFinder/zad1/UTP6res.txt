@@ -1,0 +1,75 @@
+zawartosc pliku 1,1 2 
+zawartosc pliku 1,1 2 2
+zawartosc pliku 1,1 2 3
+zawartosc pliku 1,1 2 4
+zawartosc pliku 1,1 2 5
+zawartosc pliku 1,1 
+zawartosc pliku 1,1 2
+zawartosc pliku 1,1 3
+zawartosc pliku 1,1 4
+zawartosc pliku 1,1 5
+zawartosc pliku 1,2,1 2 
+zawartosc pliku 1,2,1 2 2
+zawartosc pliku 1,2,1 2 3
+zawartosc pliku 1,2,1 2 4
+zawartosc pliku 1,2,1 2 5
+zawartosc pliku 1,2,1 
+zawartosc pliku 1,2,1 2
+zawartosc pliku 1,2,1 3
+zawartosc pliku 1,2,1 4
+zawartosc pliku 1,2,1 5
+zawartosc pliku 1,2 
+zawartosc pliku 1,2 2
+zawartosc pliku 1,2 3
+zawartosc pliku 1,2 4
+zawartosc pliku 1,2 5
+zawartosc pliku 1 
+zawartosc pliku 1 2
+zawartosc pliku 1 3
+zawartosc pliku 1 4
+zawartosc pliku 1 5
+zawartosc pliku 2,1,1,1
+zawartosc pliku 2,1,1,1 2
+zawartosc pliku 2,1,1,1 3
+zawartosc pliku 2,1,1,1 4
+zawartosc pliku 2,1,1,1 5
+zawartosc pliku 2,1,1,1 6
+zawartosc pliku 2
+zawartosc pliku 2 2
+zawartosc pliku 2 3
+zawartosc pliku 2 4
+zawartosc pliku 2 5
+zawartosc pliku 3 3
+zawartosc pliku 3 3 1
+zawartosc pliku 3 3 2
+zawartosc pliku 3 3 3
+zawartosc pliku 3 3 4
+zawartosc pliku 3 3 5
+zawartosc pliku 3 3 6
+zawartosc pliku 3 2
+zawartosc pliku 3 2 1
+zawartosc pliku 3 2 2
+zawartosc pliku 3 2 3
+zawartosc pliku 3 2 4
+zawartosc pliku 3 2 5
+zawartosc pliku 3  6
+zawartosc pliku 3 1
+zawartosc pliku 3 1 1
+zawartosc pliku 3 1 2
+zawartosc pliku 3 1 3
+zawartosc pliku 3 1 4
+zawartosc pliku 3 1 5
+zawartosc pliku 3 1 6
+zawartosc pliku 3
+zawartosc pliku 3 1
+zawartosc pliku 3 2
+zawartosc pliku 3 3
+zawartosc pliku 3 4
+zawartosc pliku 3 5
+zawartosc pliku 3 6
+zawartosc pliku UTP6dir
+zawartosc pliku UTP6dir2
+zawartosc pliku UTP6dir3
+zawartosc pliku UTP6dir4
+zawartosc pliku UTP6dir5
+zawartosc pliku UTP6dir6
